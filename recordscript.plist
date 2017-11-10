@@ -1,0 +1,12 @@
+{
+    Filter = {
+		Bundles = (
+			"com.apple.IOSurface",
+			"com.apple.IOMobileFramebuffer",
+			"com.apple.imdaemoncore",
+			"com.apple.imagent",
+			"com.apple.springboard",
+			"com.apple.MobileSMS",
+		);
+	};
+}

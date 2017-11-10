@@ -1,0 +1,9 @@
+Package: com.nana.recordscript
+Name: recordscript
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: nana
+Author: nana
+Section: Tweaks
